@@ -20,46 +20,40 @@ Mostly Python developer, also embedded developer
 
   
 
-### Web
+- ### Web
 
-[![](https://img.shields.io/badge/-flask-lightgrey?logo=flask)]()
-[![](https://img.shields.io/badge/-Jinja2-lightgrey?logo=Jinja)]()
-[![](https://img.shields.io/badge/-plotly/dash-lightgrey?logo=plotly)]()
+  [![](https://img.shields.io/badge/-flask-lightgrey?logo=flask)]()
+  [![](https://img.shields.io/badge/-Jinja2-lightgrey?logo=Jinja)]()
+  [![](https://img.shields.io/badge/-plotly/dash-lightgrey?logo=plotly)]()
 
-  
-  
+  [![](https://img.shields.io/badge/-SQLite3-lightgrey?logo=SQLite)]()
+  [![](https://img.shields.io/badge/-Docker-lightgrey?logo=Docker)]()
 
-[![](https://img.shields.io/badge/-SQLite3-lightgrey?logo=SQLite)]()
-[![](https://img.shields.io/badge/-Docker-lightgrey?logo=Docker)]()
+  [![](https://img.shields.io/badge/-selenium-lightgrey?logo=selenium)]()
+  [![](https://img.shields.io/badge/-BeautifulSoup4-lightgrey?logo=BeautifulSoup4)]()
 
-  
-  
+- ### Data science
 
-[![](https://img.shields.io/badge/-selenium-lightgrey?logo=selenium)]()
-[![](https://img.shields.io/badge/-BeautifulSoup4-lightgrey?logo=BeautifulSoup4)]()
-
-### Data science
-
-[![](https://img.shields.io/badge/-pandas-lightgrey?logo=pandas)]()
-[![](https://img.shields.io/badge/-numpy-lightgrey?logo=numpy)]()
-[![](https://img.shields.io/badge/-Matplotlib-lightgrey?logo=Matplotlib)]()
+  [![](https://img.shields.io/badge/-pandas-lightgrey?logo=pandas)]()
+  [![](https://img.shields.io/badge/-numpy-lightgrey?logo=numpy)]()
+  [![](https://img.shields.io/badge/-Matplotlib-lightgrey?logo=Matplotlib)]()
 
   
 
-### Embedded systems
+- ### Embedded systems
 
-[![](https://img.shields.io/badge/-Arduino-lightgrey?logo=Arduino)](https://github.com/akorzunin?tab=repositories&language=c%2B%2B)
-[![](https://img.shields.io/badge/-microPython-lightgrey?logo=micropython)]()
-[![](https://img.shields.io/badge/-pymakr-lightgrey?logo=pymakr)]()
+  [![](https://img.shields.io/badge/-Arduino-lightgrey?logo=Arduino)](https://github.com/akorzunin?tab=repositories&language=c%2B%2B)
+  [![](https://img.shields.io/badge/-microPython-lightgrey?logo=micropython)]()
+  [![](https://img.shields.io/badge/-pymakr-lightgrey?logo=pymakr)]()
 
   
 
-### Software
+- ### Software
 
-[![](https://img.shields.io/badge/-VSCode-lightgrey?logo=visualstudiocode)]()
-[![](https://img.shields.io/badge/-SolidWorks-lightgrey?logo=solidworks)]()
-[![](https://img.shields.io/badge/-AltiumDesigner-lightgrey?logo=altiumdesigner)]()
-[![](https://img.shields.io/badge/-Proteus-lightgrey?logo=proteus)]()
+  [![](https://img.shields.io/badge/-VSCode-lightgrey?logo=visualstudiocode)]()
+  [![](https://img.shields.io/badge/-SolidWorks-lightgrey?logo=solidworks)]()
+  [![](https://img.shields.io/badge/-AltiumDesigner-lightgrey?logo=altiumdesigner)]()
+  [![](https://img.shields.io/badge/-Proteus-lightgrey?logo=proteus)]()
 
   
   
