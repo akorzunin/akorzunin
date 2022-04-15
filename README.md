@@ -23,6 +23,7 @@ Mostly Python developer, also embedded developer
 - ### Web
 
   [![](https://img.shields.io/badge/-flask-lightgrey?logo=flask)]()
+  [![](https://img.shields.io/badge/-FastAPI-lightgrey?logo=fastapi)]()
   [![](https://img.shields.io/badge/-Jinja2-lightgrey?logo=Jinja)]()
   [![](https://img.shields.io/badge/-plotly/dash-lightgrey?logo=plotly)]()
 
