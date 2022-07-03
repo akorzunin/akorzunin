@@ -3,7 +3,7 @@
 
 # Hi, I’m [Alexey Korzunin](#)
 
-[![](https://img.shields.io/badge/Gmail-akorzunin123@gmail.com-lightgrey?logo=gmail)](mailto: akorzunin123@gmail.com)
+[![](https://img.shields.io/badge/Gmail-akorzunin123@gmail.com-lightgrey?logo=gmail)](akorzunin123@gmail.com)
 [![](https://img.shields.io/badge/-LinkedIn-lightgrey?logo=LinkedIn)](https://www.linkedin.com/in/alexey-korzunin-297b22219/)
 [![](https://img.shields.io/badge/Telegram-@akorzunin-lightgrey?logo=Telegram)](https://t.me/akorzunin)
 [![](https://img.shields.io/badge/Discord-Akorz%237331-lightgrey?logo=Discord)](Discord)
