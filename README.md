@@ -32,7 +32,11 @@ Mostly Python developer, also embedded developer
 
   [![](https://img.shields.io/badge/-selenium-lightgrey?logo=selenium)]()
   [![](https://img.shields.io/badge/-BeautifulSoup4-lightgrey?logo=BeautifulSoup4)]()
-
+  
+  [![](https://img.shields.io/badge/-Typescript-lightgrey?logo=Typescript)]()
+  [![](https://img.shields.io/badge/-React-lightgrey?logo=React)]()
+  [![](https://img.shields.io/badge/-Webpack-lightgrey?logo=Webpack)]()
+  [![](https://img.shields.io/badge/-Tailwind-lightgrey?logo=Tailwind+CSS)]()
 - ### Data science
 
   [![](https://img.shields.io/badge/-pandas-lightgrey?logo=pandas)]()
