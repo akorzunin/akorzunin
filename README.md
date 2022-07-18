@@ -28,6 +28,7 @@ Mostly Python developer, also embedded developer
   [![](https://img.shields.io/badge/-plotly/dash-lightgrey?logo=plotly)]()
 
   [![](https://img.shields.io/badge/-SQLite3-lightgrey?logo=SQLite)]()
+  [![](https://img.shields.io/badge/-Mongodb-lightgrey?logo=mongodb)]()
   [![](https://img.shields.io/badge/-Docker-lightgrey?logo=Docker)]()
 
   [![](https://img.shields.io/badge/-selenium-lightgrey?logo=selenium)]()
