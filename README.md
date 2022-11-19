@@ -13,6 +13,10 @@
 
 Mostly Python developer, also embedded developer
 
+[Resume](https://shadow-class-d2d.notion.site/Resume-6098a442f46141339e3f7f97daab5117)
+
+[Резюмэ](https://shadow-class-d2d.notion.site/5733d47ca81b4f05a4647fc98ccce321)
+
 ## Languages and Tools:
 
 [![](https://img.shields.io/badge/-Python-lightgrey?logo=Python)](https://github.com/akorzunin?tab=repositories&language=Python)
